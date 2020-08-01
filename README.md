@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ### Purpose
 
 ### Hot to contribute
+
+#### Next commit
